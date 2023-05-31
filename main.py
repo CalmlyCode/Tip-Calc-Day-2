@@ -14,5 +14,3 @@ total_per_person = float(total_cost)/float(total_people) * 1.12
 total_per_person = round(total_per_person,2)
 
 print(f'Each person should pay {total_per_person:.2f}')
-
-#End2
